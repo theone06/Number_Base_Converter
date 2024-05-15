@@ -1,0 +1,35 @@
+[1;31m
+Start test 1[0m
+!Enter number in decimal system:
+> 450
+Enter target base:
+> 16
+Conversion result: 1C2
+[1;31m
+Start test 2[0m
+!Enter number in decimal system:
+> 481
+Enter target base:
+> 16
+Conversion result: 1E1
+[1;31m
+Start test 3[0m
+!Enter number in decimal system:
+> 977
+Enter target base:
+> 16
+Conversion result: 3D1
+[1;31m
+Start test 4[0m
+!Enter number in decimal system:
+> 789
+Enter target base:
+> 2
+Conversion result: 1100010101
+[1;31m
+Start test 5[0m
+!Enter number in decimal system:
+> 418
+Enter target base:
+> 8
+Conversion result: 642

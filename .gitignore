@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Number Base Converter/*
+!/Number Base Converter/task/
+/Number Base Converter/task/*
+!/Number Base Converter/task/src
